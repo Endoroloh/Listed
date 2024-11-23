@@ -1,0 +1,41 @@
+{
+    "Pack 1": [
+        ["Beast Noobie", "Bloxy Cola Noobie"],
+        ["Bloxy Cola Noobie", "Bloxy Cola Noobie"],
+        ["Blue Lollipop Noobie", "Bloxy Cola Noobie"],
+        ["Coin Lurker Noobie", "Bloxy Cola Noobie"],
+        ["Coin Noobie", "Bloxy Cola Noobie"],
+        ["Dark Noobie", "Bloxy Cola Noobie"]
+    ],
+    "Pack 2": [
+        ["Doodle Noobie", "Bloxy Cola Noobie"],
+        ["Egg Noobie", "Egg Noobie"],
+        ["Grim Reaper Noobie", "Bloxy Cola Noobie"],
+        ["Keyboard Noobie", "Bloxy Cola Noobie"],
+        ["Light Noobie", "Bloxy Cola Noobie"],
+        ["Magician Noobie", "Bloxy Cola Noobie"]
+    ],
+    "Pack 3": [
+        ["Nautical Noobie", "Bloxy Cola Noobie"],
+        ["Pumpkin Noobie", "Bloxy Cola Noobie"],
+        ["Rainbow Noobie", "Bloxy Cola Noobie"],
+        ["Sleeping Noobie", "Bloxy Cola Noobie"],
+        ["Superhero Noobie", "Bloxy Cola Noobie"],
+        ["Try Hard Noobie", "Bloxy Cola Noobie"]
+    ],
+    "Pack 4": [
+        ["Vampire Noobie", "Bloxy Cola Noobie"],
+        ["Void Assassin Noobie", "Bloxy Cola Noobie"],
+        ["Void Defender Noobie", "Bloxy Cola Noobie"],
+        ["Void Fallen Noobie", "Bloxy Cola Noobie"],
+        ["Void Fighter Noobie", "Bloxy Cola Noobie"],
+        ["Void King Noobie", "Bloxy Cola Noobie"]
+    ],
+    "Pack 5": [
+        ["Void Mage Noobie", "Bloxy Cola Noobie"],
+        ["Void Sniper Noobie", "Bloxy Cola Noobie"],
+        ["Voltstrike Noobie", "Bloxy Cola Noobie"],
+        ["Welcome Noobie", "Bloxy Cola Noobie"],
+        ["Wide-bie", "Bloxy Cola Noobie"]
+    ]
+}
