@@ -3,240 +3,240 @@
         "A_1": "Beast Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "2": {
         "A_1": "Bloxy Cola Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "3": {
         "A_1": "Blue Lollipop Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "4": {
         "A_1": "Coin Lurker Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "5": {
         "A_1": "Coin Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "6": {
         "A_1": "Dark Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "7": {
         "A_1": "Doodle Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "8": {
         "A_1": "Egg Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "9": {
         "A_1": "Grim Reaper Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "10": {
         "A_1": "Keyboard Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "11": {
         "A_1": "Light Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "12": {
         "A_1": "Magician Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "13": {
         "A_1": "Nautical Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "14": {
         "A_1": "Pumpkin Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "15": {
         "A_1": "Rainbow Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "16": {
         "A_1": "Sleeping Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "17": {
         "A_1": "Superhero Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "18": {
         "A_1": "Try Hard Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "19": {
         "A_1": "Vampire Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "20": {
         "A_1": "Void Assassin Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "21": {
         "A_1": "Void Defender Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "22": {
         "A_1": "Void Fallen Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "23": {
         "A_1": "Void Fighter Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "24": {
         "A_1": "Void King Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "25": {
         "A_1": "Void Mage Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "26": {
         "A_1": "Void Sniper Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "27": {
         "A_1": "Voltstrike Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "28": {
         "A_1": "Welcome Noobie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "29": {
         "A_1": "Wide-bie",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "30": {
         "A_1": "A1_Value_30",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "31": {
         "A_1": "A1_Value_31",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "32": {
         "A_1": "A1_Value_32",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "33": {
         "A_1": "A1_Value_33",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "34": {
         "A_1": "A1_Value_34",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "35": {
         "A_1": "A1_Value_35",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "36": {
         "A_1": "A1_Value_36",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "37": {
         "A_1": "A1_Value_37",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "38": {
         "A_1": "A1_Value_38",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "39": {
         "A_1": "A1_Value_39",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     },
     "40": {
         "A_1": "A1_Value_40",
         "A_2": "Normal",
         "A_3": "ReplicatedStorage.Rewards[\"Bloxy Cola Noobie\"].Normal",
-        "Event": "NoobiesGot"
+        "Event": "RewardsRE"
     }
 }
